@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<table>
+ <employee id="1">
+ <id> 2058</id>
+ <name>Mahanoor</name>
+ <salary>100k</salary>
+ <joiningdate> 8 jan 2021</joiningdate>
+ <position> CEO</position>
+ </employee>
+ <employee id="2">
+ <id> 7205</id>
+ <name>Neha</name>
+ <salary>40k</salary>
+ <joiningdate> 7 jult 2020</joiningdate>
+ <position> Manager</position>
+ </employee>
+  <employee id="3">
+ <id> 2005</id>
+ <name>Urooj</name>
+ <salary>30k</salary>
+ <joiningdate> 1 oct 2019</joiningdate>
+ <position> Manager</position>
+ </employee>
+  <employee id="4">
+ <id> 2581</id>
+ <name>Sehrish</name>
+ <salary>55k</salary>
+ <joiningdate> 27 april 2018</joiningdate>
+ <position> MD</position>
+ </employee>
+  <employee id="5">
+ <id>2008</id>
+ <name>sameena</name>
+ <salary>60k</salary>
+ <joiningdate> 26 may 2018</joiningdate>
+ <position> Manager</position>
+ </employee>
+</table>
